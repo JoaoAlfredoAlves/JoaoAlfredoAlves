@@ -15,3 +15,4 @@
 - Front-end Programming
 - Segurança da Informação
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=JoaoAlfredoAlves&theme=nightowl&show_icons=true&count_private=true&hide=stars)
