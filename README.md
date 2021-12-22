@@ -7,7 +7,7 @@
 ## Sobre Mim
 
 - 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas - IFPB, Cajazeiras
-- 🖥️ Louco aficcionado por programação
+- 🖥️ Louco aficionado por programação e tecnologia da informação
 
 
 ## Áreas de Interesse
