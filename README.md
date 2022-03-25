@@ -41,15 +41,17 @@
 
 ## GitHub Analytics
   
-<img width="530em" height="auto">![Meus Stats no Github](https://github-readme-stats.vercel.app/api?username=JoaoAlfredoAlves&theme=nightowl&show_icons=true&count_private=true&hide=stars)</img>
-<img width="530em" height="auto">![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlfredoAlves&layout=compact&theme=nightowl)</img>
+<p align="justify">
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlfredoAlves&show_icons=true&theme=nightowl" alt="Joao Alfredo's Stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=nightowl" alt="Joao Alfredo's Most Languages"/>
+</p>
 
 ---
 
-## Linguagens de Programação e Tecnologias
+## Linguagens e Tecnologias
 
-| HTML5 | CSS3 | JavaScript | C |
-| :-----: | :-----: | :-----: | :-----: |
-[![Logo HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [![Logo CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [![Logo JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [![Logo C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+| HTML5 | CSS3 | JavaScript | NodeJS | C
+| :-----: | :-----: | :-----: | :-----: | :-----:
+[![Logo HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [![Logo CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [![Logo JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [![Logo NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt-br/docs/) | [![Logo C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
 
 </div>
