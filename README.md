@@ -1,5 +1,7 @@
 <div align="justify">
-
+  
+<img align="right" src="https://i.imgur.com/jOSu4Qd.jpg" alt="Logo JA" width="120px" style="display:block">
+  
 # Olá, eu sou João Alfredo Alves
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoalfredoalves/)](https://www.linkedin.com/in/joaoalfredoalves/)
