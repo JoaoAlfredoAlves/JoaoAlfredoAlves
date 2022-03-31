@@ -1,11 +1,11 @@
 <div align="justify">
   
----
 <img align="right" src="https://i.imgur.com/jOSu4Qd.jpg" alt="Logo JA" width="120px" style="display:block">
-
+  
+---
+  
 # Olá, eu sou João Alfredo Alves
 ### **Desenvolvedor Web ( *Front-end* )**
-
 ---
 
 ## Sobre Mim
