@@ -4,7 +4,7 @@
   
 ---
   
-## **Olá, eu sou João Alfredo Alves**
+# **Olá, eu sou João Alfredo Alves**
 ### **Desenvolvedor Web ( *Front-end* )**
   
 ---
