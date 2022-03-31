@@ -1,14 +1,15 @@
 <div align="justify">
-  
+
 <img align="right" src="https://i.imgur.com/jOSu4Qd.jpg" alt="Logo JA" width="120px" style="display:block">
   
 ---
   
-# Olá, eu sou João Alfredo Alves
+## **Olá, eu sou João Alfredo Alves**
 ### **Desenvolvedor Web ( *Front-end* )**
+  
 ---
 
-## Sobre Mim
+### Sobre Mim
 
 -   📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas - IFPB, Cajazeiras
 -   🖥️ Desenvolvedor Front-End
@@ -16,7 +17,7 @@
 
 ---
 
-## Áreas de Interesse
+### Áreas de Interesse
 
 -   Front-end Programming
 -   Desenvolvimento WEB
@@ -25,7 +26,7 @@
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -39,7 +40,7 @@
 
 ---
 
-## GitHub Analytics
+### GitHub Analytics
   
 <p align="justify">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlfredoAlves&show_icons=true&theme=nightowl" alt="Joao Alfredo's Stats"/>
@@ -48,7 +49,7 @@
 
 ---
 
-## Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 | HTML5 | CSS3 | JavaScript | NodeJS | C
 | :-----: | :-----: | :-----: | :-----: | :-----:
