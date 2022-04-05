@@ -1,6 +1,6 @@
 <div align="justify">
 
-<img align="right" src="https://i.imgur.com/jOSu4Qd.jpg" alt="Logo JA" width="140px" style="display:block">
+<img align="right" src="https://i.imgur.com/jOSu4Qd.jpg" alt="Logo JA" width="145px" style="display:block">
   
 ```javascript  
 let joaoAlfredoAlves {
