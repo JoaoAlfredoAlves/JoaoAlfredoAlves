@@ -92,3 +92,12 @@ stack: "Front-End"
     </a>
   </p>
 </div>
+  
+<div align="center">
+  <h3>For Curiosity 🚀</h3>
+  <p>
+    <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=joaoalfredoalves%2Fgithub-visitors-badge&countColor=%23263759"/>
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/JoaoAlfredoAlves?color=%23263759&style=for-the-badge">
+    <img alt="GitHub User Stars" src="https://img.shields.io/github/stars/JoaoAlfredoAlves?color=%23263759&style=for-the-badge">
+  </p>
+</div>
