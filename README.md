@@ -34,23 +34,25 @@ stack: "Front-End"
 
 <div align="center">
   
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C](https://img.shields.io/badge/-C%20-05122A?style=for-the-badge&logo=c&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-05122A?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-05122A?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-05122A?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-%23263759?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-%23263759?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23263759?style=for-the-badge&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-%23263759?style=for-the-badge&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-%23263759?style=for-the-badge&logo=react)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-%23263759?style=for-the-badge&logo=markdown)&nbsp;
+![C](https://img.shields.io/badge/-C%20-%23263759?style=for-the-badge&logo=c&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-%23263759?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23263759?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%23263759?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23263759?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23263759?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23263759?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-%23263759?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+---
+![Windows](https://img.shields.io/badge/Windows-%23263759?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23263759?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-%23263759?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-%23263759?style=for-the-badge&logo=github)&nbsp;
   
 </div>
   
