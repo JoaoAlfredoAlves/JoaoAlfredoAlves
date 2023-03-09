@@ -41,9 +41,6 @@ stack: "Front-End"
 ![React](https://img.shields.io/badge/-React-%23263759?style=for-the-badge&logo=react)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-%23263759?style=for-the-badge&logo=markdown)&nbsp;
 ![C](https://img.shields.io/badge/-C%20-%23263759?style=for-the-badge&logo=c&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-%23263759?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23263759?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%23263759?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23263759?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23263759?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23263759?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
