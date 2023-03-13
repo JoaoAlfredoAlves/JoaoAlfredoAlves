@@ -39,15 +39,15 @@ stack: "Front-End"
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23263759?style=for-the-badge&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-%23263759?style=for-the-badge&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-%23263759?style=for-the-badge&logo=react)&nbsp;
+![Express](https://img.shields.io/badge/-Express-%23263759?style=for-the-badge&logo=express)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-%23263759?style=for-the-badge&logo=markdown)&nbsp;
-![C](https://img.shields.io/badge/-C%20-%23263759?style=for-the-badge&logo=c&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23263759?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23263759?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23263759?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-%23263759?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ---
 ![Windows](https://img.shields.io/badge/Windows-%23263759?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23263759?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23263759?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%23263759?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-%23263759?style=for-the-badge&logo=github)&nbsp;
   
