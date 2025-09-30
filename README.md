@@ -5,7 +5,7 @@
 ```javascript  
 let joaoAlfredoAlves {
 name: "João Alfredo Alves",
-age: 20,
+age: 22,
 country: "Brazil",
 stack: "Front-End"
 };
