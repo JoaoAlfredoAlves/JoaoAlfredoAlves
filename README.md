@@ -16,7 +16,7 @@ stack: "Front-End"
 ### About me
   
 - 🖥️ Front-end Developer
-- 📚 Graduating in Technology in Systems Analysis and Development - IFPB, Cajazeiras
+- 📚 Technology in Systems Analysis and Development - IFPB, Cajazeiras
 - 👨‍💻 Programming and Information Technology Enthusiast
   
 ---
