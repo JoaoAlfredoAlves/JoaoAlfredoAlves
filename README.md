@@ -1,79 +1,97 @@
-<div align="justify">
+<div align="center">
+  <img src="https://i.imgur.com/ljSlJWm.png" alt="Logo JA" width="120px" />
+  <h1>João Alfredo Alves</h1>
+  <p><strong>Software Engineer | Systems Analysis & Development @ IFPB - CZ</strong></p>
 
-<img align="right" src="https://i.imgur.com/ljSlJWm.png" alt="Logo JA" width="140px" style="display:block">
-  
-```javascript  
-let joaoAlfredoAlves {
-name: "João Alfredo Alves",
-age: 23,
-country: "Brazil",
-stack: "Front-End"
-};
-```
-  
+  <img src="https://img.shields.io/badge/Main_Stack-Next.js%20%2F%20React%20%2F%20TypeScript-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Brazil-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data-orange?style=flat-square" />
+</div>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>💻 Currently working as a <b>Front-end Engineer</b>.</li>
+        <li>🎓 Pursuing a degree in <b>Systems Analysis and Development</b>.</li>
+        <li>⚡ Passionate about <b>Performance</b>, <b>DX</b>, and the <b>Biome</b> toolchain.</li>
+        <li>🎨 Crafting <b>minimal</b> and <b>intuitive</b> user interfaces for modern SaaS platforms.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Interest Areas</h3>
+      <ul>
+        <li>🤖 <b>AI & LLMs:</b> Integrating AI agents and streaming responses.</li>
+        <li>📊 <b>Data Engineering:</b> Analyzing and structuring complex data flows.</li>
+        <li>🌐 <b>Web Development:</b> Building scalable SaaS architectures.</li>
+        <li>🔒 <b>Information Security:</b> Ensuring robust and secure applications.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ---
 
-### About me
-  
-- 🖥️ Front-end Developer
-- 📚 Technology in Systems Analysis and Development - IFPB, Cajazeiras
-- 👨‍💻 Programming and Information Technology Enthusiast
-  
----
-  
-### Interest Areas
+### 💻 Tech Stack & Skills
 
-- Front-end Programming
-- Web Development
-- Information Security
-- Social Engineering
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend & Data</strong><br /><br />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Tools</strong><br /><br />
+      <img src="https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" />
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
-  
-<h3 align="center">Tech Stack & Skills</h3>
+
+### 📊 GitHub Activity
 
 <div align="center">
-  
-![HTML](https://img.shields.io/badge/-HTML-%23263759?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-%23263759?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23263759?style=for-the-badge&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-%23263759?style=for-the-badge&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-%23263759?style=for-the-badge&logo=react)&nbsp;
-![Express](https://img.shields.io/badge/-Express-%23263759?style=for-the-badge&logo=express)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-%23263759?style=for-the-badge&logo=markdown)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23263759?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23263759?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-%23263759?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
----
-![Windows](https://img.shields.io/badge/Windows-%23263759?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23263759?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23263759?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-%23263759?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-%23263759?style=for-the-badge&logo=github)&nbsp;
-  
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlfredoAlves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlfredoAlves&layout=compact&langs_count=6&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoAlfredoAlves&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
-  
-<div align="center" style="display: flex;">
-  <h3>Find me and Contact me 😉</h3>
-  <p>
-    <a href = "mailto:joaoadsousa777@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/joaoalfredoalves/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-    </a>
-    <a href="https://www.instagram.com/joaoalf.a/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagaram"/>
-    </a>
-  </p>
-</div>
-  
+
+### 📫 Connect with me
+
 <div align="center">
-  <h3>For Curiosity 🚀</h3>
-  <p>
-    <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=joaoalfredoalves%2Fgithub-visitors-badge&countColor=%23263759"/>
-    <img alt="GitHub User Stars" src="https://img.shields.io/github/stars/JoaoAlfredoAlves?color=%23263759&style=for-the-badge">
-  </p>
+  <a href="mailto:joaoadsousa777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaoalfredoalves/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/joaoalf.a/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <br /><br />
+  <img src="https://api.visitorbadge.io/api/visitors?path=joaoalfredoalves&label=VISITORS&countColor=%23263759&style=flat-square" />
 </div>
